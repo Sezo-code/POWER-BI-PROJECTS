@@ -107,7 +107,6 @@ Click Link: (https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 -Excel 
 
 -Dax Studio 
-lick Link:( https://aka.ms/pbidesktopstore)
 
 -Power Point
 
